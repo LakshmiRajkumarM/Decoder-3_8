@@ -1,7 +1,7 @@
 // Code your testbench here
 // or browse Examples
-`include "Interface.sv"
-`include "Test.sv"
+`include "interface.sv"
+`include "test.sv"
 module tbench_top;
   bit clk;
   bit reset;
