@@ -1,4 +1,4 @@
-`include "Environment.sv"
+`include "environment.sv"
 program test(intf i_intf);
   environment env;
   initial
